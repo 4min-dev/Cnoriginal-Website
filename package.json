@@ -1,0 +1,13 @@
+{
+  "name": "china-www",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "live-server --open=home.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
